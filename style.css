@@ -1,0 +1,40 @@
+#container{border: solid 1px;
+    margin: auto;
+    padding: 14px, 12px;
+    width: 50%;
+
+}
+.input{border: solid 1px;
+    padding: 14px, 12px;
+    width: 80%;
+
+}
+button{padding: 12px 160px;
+    border: none hsl(0, 5%, 22%);
+    background-color: hsl(0, 3%, 38%);
+    border:solid 1px;
+}
+.Glory{
+    width: 20%;
+    height:40px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.Kuria{
+    width: 20%;
+    height:40px;
+    margin-left: 10%;
+    margin-right: 15%;
+    
+
+}
+table,tr,td{
+        margin: auto;
+    border: solid 1px;
+    padding: 14px 12pxg;
+    width: 50%;
+    }
+
+
+
